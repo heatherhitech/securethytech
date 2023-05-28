@@ -1,4 +1,4 @@
-# securethytech
+# securethytech.io
 CYBER Security Projects
 
 Azure Sentinel /SIEM
